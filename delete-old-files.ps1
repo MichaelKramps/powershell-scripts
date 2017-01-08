@@ -4,7 +4,7 @@
 # Then deletes them upon confirmation
 
 $directories = @("C:\Users\Michael\test", "C:\Users\Michael\test2")
-$xYears = 0
+$xYears = 2
 $fileTypes = @("*.jpg", "*.png", "*.gif")
 
 $currentDate = get-date
